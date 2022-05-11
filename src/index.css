@@ -107,3 +107,13 @@ form .form-inner input[type="submit"]:hover,.welcome button:hover {
     color:#FE4880;
     font-weight: 700;
 }
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+.header
+{
+    width: 50%;
+    text-align: center;
+
+}
